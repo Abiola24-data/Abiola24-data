@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Abiola. I'm a passionate data analyst with a background in **Data Visualization**, **Data Manipulation**, and **Business Intelligence** tools.
+##My name is Abiola Yussuf.
+I'm a passionate data analyst with a background in **Data Visualization**, **Data Manipulation**, and **Business Intelligence** tools.
 I love using data to solve problems, uncover insights, and help drive strategic decisions.
 
 
