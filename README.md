@@ -18,7 +18,6 @@ I thrive in fast-paced environments where data plays a crucial role in shaping b
 - **Programming & Automation**  
   - Strong knowledge of **Python** (Pandas, NumPy, Matplotlib, Seaborn) for data analysis and automation.  
   - Experience with **SQL performance tuning** for improved query efficiency.  
-  - Exposure to **cloud-based data solutions** such as **Azure** and **AWS** for scalable analytics.  
 
 - **Statistical & Predictive Analytics**  
   - Knowledge of **statistical modeling and hypothesis testing** to support data-driven decisions.  
