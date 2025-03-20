@@ -1,6 +1,3 @@
-Here’s a more professional and engaging version of your GitHub README:  
-
----
 
 # 👋 Hi, I'm Abiola Yussuf  
 
