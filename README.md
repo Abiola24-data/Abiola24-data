@@ -13,7 +13,7 @@ I thrive in fast-paced environments where data plays a crucial role in shaping b
   - Skilled in **Power BI** and **Tableau** for creating interactive dashboards and data visualizations.  
  
 - **Programming & Automation**  
-  - Strong knowledge of **Python** (Pandas, NumPy, Matplotlib, Seaborn) for data analysis and automation.  
+  - Strong knowledge of **Python** (Pandas, NumPy, Matplotlib) for data analysis and automation.  
   - Experience with **SQL performance tuning** for improved query efficiency.  
 
 - **Statistical & Predictive Analytics**  
